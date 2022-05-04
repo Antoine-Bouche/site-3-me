@@ -1,0 +1,73 @@
+h1
+{
+	font-family:impact;
+	color:blue;
+}
+h2
+{
+	color:purple;
+	font-family:impact;
+}
+body
+{
+	background-image: url("https://i.guim.co.uk/img/media/6000924d7eb5195178a6b2b68d4e8613eebf3793/0_421_5953_3571/master/5953.jpg?width=1920&quality=85&auto=format&fit=max&s=1681d9765fa3b85e368f55737e982d93");
+background-size: cover;}
+a:hover{
+	color:red;
+}
+#presentation{
+	margin:0 auto;
+	background-color:#90EE90;
+	text-align:center;
+	align-content:center;
+}
+#presentation2{
+	width:800px;
+	margin:0 auto;
+	background-color:#90EE90;
+	text-align:center;
+	align-content:center;
+	padding:10px;
+}
+h3{
+	font-family:blackarial;
+}
+#tout{
+	width:800px;
+	background-color:lightcoral;
+	margin:0 auto;
+	align-content:center;
+	padding:20px;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+#liste{
+	width:800px;
+	background-color:lightcoral;
+	margin:0 auto;
+	align-content:center;
+	padding-right:20px;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.photo-enfant{
+	width:300px;
+	height:150px;
+}
+.photo-liste{
+	padding-left:25px;
+	width:300px;
+	height:200px;
+}
+.photo-app{
+	width:300px;
+	height:200px;
+}
+
+
+li{
+	padding-bottom:10px;
+}
+img{
+	height:40px;
+}
